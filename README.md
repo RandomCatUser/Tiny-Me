@@ -28,6 +28,10 @@ It uses the **Pollinations AI API** (`https://text.pollinations.ai/{prompt}`) fo
 
 ---
 
+## Modules u need
+
+- PyQt5 : `pip install PyQt5 PyQtWebEngine`
+
 ## 👥 Contributors
 
 Thank you to our amazing contributors for making **Tiny Me** possible:
