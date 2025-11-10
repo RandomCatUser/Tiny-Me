@@ -30,7 +30,7 @@ It uses the **Pollinations AI API** (`https://text.pollinations.ai/{prompt}`) fo
 
 ## 👥 Contributors
 
-Thank you to our amazing contributors for making **Tiny Me purrGpt** possible:
+Thank you to our amazing contributors for making **Tiny Me** possible:
 
 | Contributor | GitHub Profile |
 |------------|---------------|
