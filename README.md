@@ -27,3 +27,18 @@ It uses the **Pollinations AI API** (`https://text.pollinations.ai/{prompt}`) fo
 | **Storage** | localStorage for saving memory |
 
 ---
+
+## 👥 Contributors
+
+Thank you to our amazing contributors for making **Tiny Me purrGpt** possible:
+
+| Contributor | GitHub Profile |
+|------------|---------------|
+| <img src="https://avatars.githubusercontent.com/DihanRamanayaka?s=60" width="30" height="30" style="border-radius:50%"> **RandomCatUser** | [@USERNAME1](https://github.com/RandomCatUser) |
+| <img src="https://avatars.githubusercontent.com/DihanRamanayaka?s=60" width="30" height="30" style="border-radius:50%"> **Dihan Ramanayaka** | [@USERNAME2](https://github.com/DihanRamanayaka) |
+| <img src="https://avatars.githubusercontent.com/kashmithnisakya?s=60" width="30" height="30" style="border-radius:50%"> **Kashmith Nisakya** | [@USERNAME3](https://github.com/kashmithnisakya) |
+
+> _Want to contribute? Submit a pull request and your name will appear here!_
+
+
+
