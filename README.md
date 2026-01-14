@@ -39,7 +39,6 @@ Thank you to our amazing contributors for making **Tiny Me** possible:
 |------------|---------------|
 | <img src="https://avatars.githubusercontent.com/RandomCatUser?s=60" width="30" height="30" style="border-radius:50%"> **RandomCatUser** | [RandomCatUser](https://github.com/RandomCatUser) |
 | <img src="https://avatars.githubusercontent.com/DihanRamanayaka?s=60" width="30" height="30" style="border-radius:50%"> **Dihan Ramanayaka** | [Dihan Ramanayaka](https://github.com/DihanRamanayaka) |
-| <img src="https://avatars.githubusercontent.com/kashmithnisakya?s=60" width="30" height="30" style="border-radius:50%"> **Kashmith Nisakya** | [Kashmith Nisakya](https://github.com/kashmithnisakya) |
 
 > _Want to contribute? Submit a pull request and your name will appear here!_
 
